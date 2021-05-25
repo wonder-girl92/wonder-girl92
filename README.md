@@ -4,7 +4,7 @@
 
 ## I'm a frontend developer💻
 
-### Languages
+### Languages & Tools
 ![HTML](https://img.shields.io/badge/-Html-E85E2A?style=for-the-badge&logo=html5&logoColor=F8F9F9)
 ![CSS](https://img.shields.io/badge/-Css-blue?style=for-the-badge&logo=css3&logoColor=F8F9F9)
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=orange)
