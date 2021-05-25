@@ -6,5 +6,5 @@
 
 ____
 ### Languages
-![HTML](https://img.shields.io/badge/-HTML-E85E2A?
+![Html](https://img.shields.io/badge/-Html-E85E2A?
 style=for-the-badge&logo=html&logoColor=F8F9F9)
