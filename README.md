@@ -4,7 +4,7 @@
 
 ## I'm a frontend developer💻
 
-### Languages & Tools
+### Languages & Tools:
 ![HTML](https://img.shields.io/badge/-Html-E85E2A?style=for-the-badge&logo=html5&logoColor=F8F9F9)
 ![CSS](https://img.shields.io/badge/-Css-blue?style=for-the-badge&logo=css3&logoColor=F8F9F9)
 ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=orange)
@@ -16,3 +16,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-8249C1?style=for-the-badge&logo=heroku&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=prettier&logoColor=orange)
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
+
+### My projects:
+- Десктопный чат на React/Redux [Код](https://github.com/wonder-girl92/react-chat) | [Demo](https://desktop-chat-react.herokuapp.com/)
