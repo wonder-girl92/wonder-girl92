@@ -5,5 +5,4 @@
 ## I'm a frontend developer💻
 
 ### Languages
-![Flutter](https://img.shields.io/badge/-Flutter-E85E2A?
-style=for-the-badge&logo=flutter&logoColor=F8F9F9)
+![Flutter](https://img.shields.io/badge/-Flutter-E85E2A?style=for-the-badge&logo=flutter&logoColor=F8F9F9)
