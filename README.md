@@ -1,6 +1,6 @@
 ### Hi there👋 I'm WonderGirl🌟 Welcome to the world of my projects❣️
 
-[![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://www.instagram.com/r.i.1992/)
+[![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
 
 ## I'm a frontend developer💻
 
