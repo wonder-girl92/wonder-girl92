@@ -1,5 +1,5 @@
 ### Hi there👋 I'm WonderGirl🌟 Welcome to the world of my projects❣️
-Here is the link to my Telegram account:
+Here is the link to connect with me by Telegram:
 
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
 
