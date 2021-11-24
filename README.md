@@ -19,4 +19,4 @@ Here is the link to connect with me by Telegram:
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
 
 ### My projects:
-- Десктопный чат на React/Redux [Код](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/), [Demo2](https://desktop-chat-react.herokuapp.com/)
+- Десктопный чат на React/Redux [Код](https://github.com/wonder-girl92/react-chat) | [DemoNew](https://react-redux-chat-p.herokuapp.com/), [Demo](https://desktop-chat-react.herokuapp.com/)
