@@ -1,4 +1,4 @@
-### Hi there👋 I'm I'm a frontend developer💻 Welcome to the world of my projects❣️
+### Hi there👋 I'm a frontend developer💻 Welcome to the world of my projects❣️
 Here is the link to connect with me by Telegram:
 
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
