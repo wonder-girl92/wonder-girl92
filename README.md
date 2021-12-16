@@ -1,9 +1,7 @@
-### Hi there👋 I'm WonderGirl🌟 Welcome to the world of my projects❣️
+### Hi there👋 I'm I'm a frontend developer💻 Welcome to the world of my projects❣️
 Here is the link to connect with me by Telegram:
 
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
-
-## I'm a frontend developer💻
 
 ### Languages & Tools:
 ![HTML](https://img.shields.io/badge/-Html-E85E2A?style=for-the-badge&logo=html5&logoColor=F8F9F9)
