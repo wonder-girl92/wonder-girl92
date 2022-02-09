@@ -18,3 +18,4 @@ Here is the link to connect with me by Telegram:
 
 ### My projects:
 - Десктопный чат на React/Redux [Код](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/)
+- Викторина на чистом JS [Код](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
