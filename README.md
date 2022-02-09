@@ -17,5 +17,6 @@ Here is the link to connect with me by Telegram:
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
 
 ### My projects:
-- Десктопный чат на React/Redux [Код](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/)
-- Викторина на чистом JS [Код](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
+- Выбор друга (друзей) для встречи (React) [Код](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
+- Десктопный чат (React/Redux) (командная работа) [Код](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/)
+- Викторина (JS) [Код](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
