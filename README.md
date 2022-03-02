@@ -16,10 +16,10 @@ Here is the link to connect with me by Telegram:
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
 
 ## My projects:
-### - *Выбор друга (друзей) для встречи (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)*
-### - *Десктопный чат (React/Redux) (командная работа)📨 [Code](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/)*
-### - *Викторина (JS)❓ [Code](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)*
-### - *Сервис для внесения донатов (сборшик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)*
+- *Выбор друга (друзей) для встречи (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)*
+- *Десктопный чат (React/Redux) (командная работа)📨 [Code](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/)*
+- *Викторина (JS)❓ [Code](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)*
+- *Сервис для внесения донатов (сборшик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)*
  
 ## Projects within the marathon by Vladilen Minin:
 - Карточки с переходом-расширением при клике (горизонтальный слайдер)🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
