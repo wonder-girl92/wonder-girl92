@@ -25,3 +25,5 @@ Here is the link to connect with me by Telegram:
 - Карточки с переходом-расширением при клике (горизонтальный слайдер)🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
 - "Перетащи меня"🔁➜ [Code](https://github.com/wonder-girl92/drag-n-drop) | [Demo](https://wonder-girl92.github.io/drag-n-drop/)
 - Времена года и их пейзажи (вертикальный слайдер)🌱 [Code](https://github.com/wonder-girl92/slider-vertical) | [Demo](https://wonder-girl92.github.io/slider-vertical/)
+- Доска из элементов, при наведении мыши на которых рандомно меняется цвет💟 [Code](https://github.com/wonder-girl92/love-board) | [Demo](https://wonder-girl92.github.io/love-board/)
+- Игра с ведением счета кликов на появляющиеся цели в рандомных местах🎯 [Code](https://github.com/wonder-girl92/aim-game) | [Demo](https://wonder-girl92.github.io/aim-game/)
