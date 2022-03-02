@@ -21,3 +21,6 @@ Here is the link to connect with me by Telegram:
 - Десктопный чат (React/Redux) (командная работа) [Код](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/)
 - Викторина (JS) [Код](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
 - Сервис для внесения донатов (сборшик проектов Webpack) [Код](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
+ 
+### Projects in marathon by Vladilen Minin:
+- Слайдер карточек с переходом-расширением [Код](https://github.com/wonder-girl92/cards-sources) | [Demo](https://wonder-girl92.github.io/cards-sources/)
