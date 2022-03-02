@@ -23,5 +23,5 @@ Here is the link to connect with me by Telegram:
 - Сервис для внесения донатов (сборшик проектов Webpack) [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
  
 ## Projects in marathon by Vladilen Minin:
-- Слайдер карточек с переходом-расширением🥭 [Code](https://github.com/wonder-girl92/cards-sources) | [Demo](https://wonder-girl92.github.io/cards-sources/)
+- Карточки с переходом-расширением при клике🥭 [Code](https://github.com/wonder-girl92/cards-sources) | [Demo](https://wonder-girl92.github.io/cards-sources/)
 - 
