@@ -1,6 +1,5 @@
 # Hey there👋 I'm a frontend developer💻 Welcome to the world of my projects❣️
 Here is the link to connect with me by Telegram:
-
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
 
 # Languages & Tools:
@@ -23,5 +22,6 @@ Here is the link to connect with me by Telegram:
 ### - *Сервис для внесения донатов (сборшик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)*
  
 ## Projects within the marathon by Vladilen Minin:
-- Карточки с переходом-расширением при клике🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
-- "Перетащи меня"➜ [Code](https://github.com/wonder-girl92/drag-n-drop) | [Demo](https://wonder-girl92.github.io/drag-n-drop/)
+- Карточки с переходом-расширением при клике (горизонтальный слайдер)🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
+- "Перетащи меня"🔁➜ [Code](https://github.com/wonder-girl92/drag-n-drop) | [Demo](https://wonder-girl92.github.io/drag-n-drop/)
+- Времена года и их пейзажи (вертикальный слайдер)🌱 [Code](https://github.com/wonder-girl92/slider-vertical) | [Demo](https://wonder-girl92.github.io/slider-vertical/)
