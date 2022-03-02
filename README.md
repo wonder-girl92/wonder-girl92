@@ -20,4 +20,4 @@ Here is the link to connect with me by Telegram:
 - Выбор друга (друзей) для встречи (React) [Код](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
 - Десктопный чат (React/Redux) (командная работа) [Код](https://github.com/wonder-girl92/react-chat) | [Demo](https://react-redux-chat-p.herokuapp.com/)
 - Викторина (JS) [Код](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
-- Сервис для отправления донатов (сборшик проектов Webpack) [Код](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
+- Сервис для внесения донатов (сборшик проектов Webpack) [Код](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
