@@ -32,3 +32,4 @@ Here is the link to connect with me by Telegram:
 ## Figma layouts (coding in HTML & CSS without using any libraries):
 - [Gift store website](https://wonder-girl92.github.io/gift-store-website/)
 - [Cloud budget](https://wonder-girl92.github.io/cloud-budget/)
+- [Landing page Afrianska](https://wonder-girl92.github.io/landing-page-afrianska/)
