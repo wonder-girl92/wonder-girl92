@@ -28,3 +28,6 @@ Here is the link to connect with me by Telegram:
 - Времена года и их пейзажи (вертикальный слайдер)🌱 [Code](https://github.com/wonder-girl92/slider-vertical) | [Demo](https://wonder-girl92.github.io/slider-vertical/)
 - Доска из элементов, при наведении мыши на которых рандомно меняется цвет💟 [Code](https://github.com/wonder-girl92/love-board) | [Demo](https://wonder-girl92.github.io/love-board/)
 - Игра с ведением счета кликов на появляющиеся цели в рандомных местах🎯 [Code](https://github.com/wonder-girl92/aim-game) | [Demo](https://wonder-girl92.github.io/aim-game/)
+
+## Figma layouts (coding in HTML & CSS without using any libraries):
+- [Gift store website](https://wonder-girl92.github.io/gift-store-website/)
