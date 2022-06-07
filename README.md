@@ -17,7 +17,7 @@ Here is the link to contact me by Telegram:
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=blue)
 ![Rollup](https://img.shields.io/badge/-Rollup-FBC352?style=for-the-badge&logo=rollup.js)
 ![Lodash](https://img.shields.io/badge/-Lodash-283646?style=for-the-badge&logo=lodash&logoColor=white)
-![BEM](https://img.shields.io/badge/-BEM-283646?style=for-the-badge&logo=BEM&logoColor=white)
+![BEM](https://img.shields.io/badge/-BEM-darkblue?style=for-the-badge&logo=BEM&logoColor=white)
 
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
