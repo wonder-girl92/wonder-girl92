@@ -14,7 +14,8 @@ Here is the link to contact me by Telegram:
 ![Heroku](https://img.shields.io/badge/-Heroku-8249C1?style=for-the-badge&logo=heroku&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=prettier&logoColor=orange)
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
-![Webpack](https://img.shields.io/badge/-Webpack-white?style=for-the-badge&logo=webpack&logoColor=lightblue)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=blue)
+![Rollup](https://img.shields.io/badge/-Rollup-lightorange?style=for-the-badge&logo=rollup&logoColor=red)
 
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
