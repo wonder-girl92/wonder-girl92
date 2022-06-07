@@ -15,7 +15,7 @@ Here is the link to contact me by Telegram:
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=prettier&logoColor=orange)
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=blue)
-![Rollup](https://img.shields.io/badge/-Rollup-yellow?style=for-the-badge&logo=rollup&logoColor=red)
+![Rollup](https://img.shields.io/badge/-Rollup-yellow?style=for-the-badge&logo=Rollup&logoColor=orange)
 
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
