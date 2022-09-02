@@ -19,7 +19,7 @@ Here is the link to contact me by Telegram:
 ![Lodash](https://img.shields.io/badge/-Lodash-283646?style=for-the-badge&logo=lodash&logoColor=white)
 ![BEM](https://img.shields.io/badge/-BEM-darkblue?style=for-the-badge&logo=BEM&logoColor=white)
 
-![codewars](https://www.codewars.com/users/wonder-girl92/badges/small)
+![codewars](https://www.codewars.com/users/wonder-girl92/badges/large)
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
 - Прогноз погоды на текущий день и последующие 3 дня (React)⛅ [Code](https://github.com/wonder-girl92/weather-forecast) | [Demo](https://wonder-girl92.github.io/weather-forecast/)
