@@ -2,6 +2,7 @@
 Here is the link to contact me by Telegram:
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
 
+![codewars](https://www.codewars.com/users/wonder-girl92/badges/large)
 # Languages & Tools:
 ![HTML](https://img.shields.io/badge/-Html-E85E2A?style=for-the-badge&logo=html5&logoColor=F8F9F9)
 ![CSS](https://img.shields.io/badge/-Css-blue?style=for-the-badge&logo=css3&logoColor=F8F9F9)
@@ -19,7 +20,6 @@ Here is the link to contact me by Telegram:
 ![Lodash](https://img.shields.io/badge/-Lodash-283646?style=for-the-badge&logo=lodash&logoColor=white)
 ![BEM](https://img.shields.io/badge/-BEM-darkblue?style=for-the-badge&logo=BEM&logoColor=white)
 
-![codewars](https://www.codewars.com/users/wonder-girl92/badges/large)
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
 - Прогноз погоды на текущий день и последующие 3 дня (React)⛅ [Code](https://github.com/wonder-girl92/weather-forecast) | [Demo](https://wonder-girl92.github.io/weather-forecast/)
