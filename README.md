@@ -22,6 +22,7 @@ Here is the link to contact me by Telegram:
 ![BEM](https://img.shields.io/badge/-BEM-darkblue?style=for-the-badge&logo=BEM&logoColor=white)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-F3EFFD?style=for-the-badge&logo=AXIOS&logoColor=8659F8)
 ![🚀_React_toastify](https://img.shields.io/badge/-🚀_React_toastify-9CF4D2?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/-Sentry-FCD4B5?style=for-the-badge&logo=sentry&logoColor=783292)
 
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
