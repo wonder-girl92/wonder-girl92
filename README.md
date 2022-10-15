@@ -12,7 +12,7 @@ Here is the link to contact me by Telegram:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=1FDDF3)
 ![Redux](https://img.shields.io/badge/-Redux-lightgrey?style=for-the-badge&logo=redux&logoColor=purple)
-![ReactRouter](https://img.shields.io/badge/-ReactRouter-grey?style=for-the-badge&logo=react-router)
+![React_Router](https://img.shields.io/badge/-React_Router-grey?style=for-the-badge&logo=react-router)
 ![Heroku](https://img.shields.io/badge/-Heroku-8249C1?style=for-the-badge&logo=heroku&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=prettier&logoColor=orange)
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
@@ -21,7 +21,7 @@ Here is the link to contact me by Telegram:
 ![Lodash](https://img.shields.io/badge/-Lodash-283646?style=for-the-badge&logo=lodash&logoColor=white)
 ![BEM](https://img.shields.io/badge/-BEM-darkblue?style=for-the-badge&logo=BEM&logoColor=white)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-F3EFFD?style=for-the-badge&logo=AXIOS&logoColor=8659F8)
-![TOASTIFY](https://img.shields.io/badge/-toastify-9CF4D2?style=for-the-badge&logoImg=🚀)
+![🚀_React_toastify](https://img.shields.io/badge/-🚀_React_toastify-9CF4D2?style=for-the-badge)
 
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
