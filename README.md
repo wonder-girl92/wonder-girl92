@@ -13,6 +13,7 @@ Here is the link to contact me by Telegram:
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=1FDDF3)
 ![Redux](https://img.shields.io/badge/-Redux-lightgrey?style=for-the-badge&logo=redux&logoColor=purple)
 ![React_Router](https://img.shields.io/badge/-React_Router-grey?style=for-the-badge&logo=react-router)
+![Material UI](https://img.shields.io/badge/-MaterialUI-FDE8F9?style=for-the-badge&logo=MUI)
 ![Heroku](https://img.shields.io/badge/-Heroku-8249C1?style=for-the-badge&logo=heroku&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=prettier&logoColor=orange)
 ![ESLint](https://img.shields.io/badge/-ESLint-lightgrey?style=for-the-badge&logo=eslint&logoColor=1F67F3)
