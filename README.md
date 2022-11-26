@@ -1,7 +1,6 @@
 # Hey there👋 I'm a frontend developer💻 Welcome to the world of my projects❣️
 Here is the link to contact me by Telegram:
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
-
 ![](https://komarev.com/ghpvc/?username=wonder-girl92&color=green)
 ## [Codewars Profile:](https://www.codewars.com/users/wonder-girl92)
 ![codewars](https://www.codewars.com/users/wonder-girl92/badges/large)
