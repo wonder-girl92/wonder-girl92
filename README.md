@@ -1,9 +1,10 @@
-# Hey there👋 I'm a frontend developer💻 Welcome to the world of my projects❣️
+# Hey there👋 I'm a frontend developer💻 Welcome to the world of my projects❣️ 
 Here is the link to contact me by Telegram:
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
-![](https://komarev.com/ghpvc/?username=wonder-girl92&color=green&style=for-the-badge)
+
 ## [Codewars Profile:](https://www.codewars.com/users/wonder-girl92)
 ![codewars](https://www.codewars.com/users/wonder-girl92/badges/large)
+> ![](https://komarev.com/ghpvc/?username=wonder-girl92&color=green&style=for-the-badge)
 # Languages & Tools:
 ![HTML](https://img.shields.io/badge/-Html-E85E2A?style=for-the-badge&logo=html5&logoColor=F8F9F9)
 ![CSS](https://img.shields.io/badge/-Css-blue?style=for-the-badge&logo=css3&logoColor=F8F9F9)
@@ -24,7 +25,6 @@ Here is the link to contact me by Telegram:
 ![AXIOS](https://img.shields.io/badge/-AXIOS-F3EFFD?style=for-the-badge&logo=AXIOS&logoColor=8659F8)
 ![🚀_React_toastify](https://img.shields.io/badge/-🚀_React_toastify-9CF4D2?style=for-the-badge)
 ![Sentry](https://img.shields.io/badge/-Sentry-FCD4B5?style=for-the-badge&logo=sentry&logoColor=783292)
-
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company) | [Demo](https://wonder-girl92.github.io/fast-company/)
 - Прогноз погоды на текущий день и последующие 3 дня (React)⛅ [Code](https://github.com/wonder-girl92/weather-forecast) | [Demo](https://wonder-girl92.github.io/weather-forecast/)
@@ -32,7 +32,6 @@ Here is the link to contact me by Telegram:
 - Викторина (JS)❓ [Code](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
 - Сервис для внесения донатов (сборшик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
 - Интернет-магазин книг (React, Material UI)📚 [Code](https://github.com/wonder-girl92/online-store-of-books) | [Demo](https://wonder-girl92.github.io/online-store-of-books/)
- 
 ## Projects within the marathon by Vladilen Minin (native JS, CSS):
 - Карточки с переходом-расширением при клике (горизонтальный слайдер)🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
 - "Перетащи меня"🔁➜ [Code](https://github.com/wonder-girl92/drag-n-drop) | [Demo](https://wonder-girl92.github.io/drag-n-drop/)
