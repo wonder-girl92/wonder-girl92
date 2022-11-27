@@ -2,8 +2,9 @@
 Here is the link to contact me by Telegram:
 [![Header](https://github.com/wonder-girl92/wonder-girl92/blob/main/assets/logo.jpg)](https://t.me/Razet13)
 
-## [Codewars Profile:](https://www.codewars.com/users/wonder-girl92)
+## [Codewars Profile:](https://www.codewars.com/users/wonder-girl92)  
 ![codewars](https://www.codewars.com/users/wonder-girl92/badges/large)
+---------
 > ![](https://komarev.com/ghpvc/?username=wonder-girl92&color=green&style=for-the-badge)
 # Languages & Tools:
 ![HTML](https://img.shields.io/badge/-Html-E85E2A?style=for-the-badge&logo=html5&logoColor=F8F9F9)
