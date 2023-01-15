@@ -41,6 +41,8 @@ Here is the link to contact me by Telegram:
 - Доска из элементов, при наведении мыши на которых рандомно меняется цвет💟 [Code](https://github.com/wonder-girl92/love-board) | [Demo](https://wonder-girl92.github.io/love-board/)
 - Игра с ведением счета кликов на появляющиеся цели в рандомных местах🎯 [Code](https://github.com/wonder-girl92/aim-game) | [Demo](https://wonder-girl92.github.io/aim-game/)
 
+## Adaptive websites:
+- [Portfolio site with animation](https://wonder-girl92.github.io/portfolio-site/)
 ## Figma layouts (coding in HTML & CSS without using any libraries):
 - [Gift store website](https://wonder-girl92.github.io/gift-store-website/)
 - [Cloud budget](https://wonder-girl92.github.io/cloud-budget/)
