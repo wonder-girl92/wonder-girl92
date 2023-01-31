@@ -27,6 +27,7 @@ Here is the link to contact me by Telegram:
 ![🚀_React_toastify](https://img.shields.io/badge/-🚀_React_toastify-9CF4D2?style=for-the-badge)
 ![Sentry](https://img.shields.io/badge/-Sentry-FCD4B5?style=for-the-badge&logo=sentry&logoColor=783292)
 ![Firebase](https://img.shields.io/badge/-Firebase-5F3466?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ## My projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company-app) | [Demo](https://wonder-girl92.github.io/fast-company-app/)
 - Прогноз погоды на текущий день и последующие 3 дня (React)⛅ [Code](https://github.com/wonder-girl92/weather-forecast) | [Demo](https://wonder-girl92.github.io/weather-forecast/)
