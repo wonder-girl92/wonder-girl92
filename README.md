@@ -35,7 +35,7 @@ Here is the link to contact me by Telegram:
 - Викторина (JS)❓ [Code](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
 - Сервис для внесения донатов (сборшик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
 - Интернет-магазин книг (React, Material UI)📚 [Code](https://github.com/wonder-girl92/online-store-of-books) | [Demo](https://wonder-girl92.github.io/online-store-of-books/)
-## Simple but interesting projects (native JS, CSS):
+## Simple but interesting (native JS, CSS):
 - Карточки с переходом-расширением при клике (горизонтальный слайдер)🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
 - "Перетащи меня"🔁➜ [Code](https://github.com/wonder-girl92/drag-n-drop) | [Demo](https://wonder-girl92.github.io/drag-n-drop/)
 - Времена года и соответствующие им пейзажи (вертикальный слайдер)🌱 [Code](https://github.com/wonder-girl92/slider-vertical) | [Demo](https://wonder-girl92.github.io/slider-vertical/)
