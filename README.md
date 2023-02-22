@@ -28,14 +28,14 @@ Here is the link to contact me by Telegram:
 ![Sentry](https://img.shields.io/badge/-Sentry-FCD4B5?style=for-the-badge&logo=sentry&logoColor=783292)
 ![Firebase](https://img.shields.io/badge/-Firebase-5F3466?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-## My projects:
+## Foremost projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company-app) | [Demo](https://wonder-girl92.github.io/fast-company-app/)
 - Прогноз погоды на текущий день и последующие 3 дня (React)⛅ [Code](https://github.com/wonder-girl92/weather-forecast) | [Demo](https://wonder-girl92.github.io/weather-forecast/)
 - Десктопный чат (React/Redux) (командная работа)📨 [Code](https://github.com/wonder-girl92/react-chat) | [Demo](https://wonder-girl92.github.io/react-chat/)
 - Викторина (JS)❓ [Code](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
 - Сервис для внесения донатов (сборшик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
 - Интернет-магазин книг (React, Material UI)📚 [Code](https://github.com/wonder-girl92/online-store-of-books) | [Demo](https://wonder-girl92.github.io/online-store-of-books/)
-## Projects within the marathon by Vladilen Minin (native JS, CSS):
+## Simple but interesting projects (native JS, CSS):
 - Карточки с переходом-расширением при клике (горизонтальный слайдер)🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
 - "Перетащи меня"🔁➜ [Code](https://github.com/wonder-girl92/drag-n-drop) | [Demo](https://wonder-girl92.github.io/drag-n-drop/)
 - Времена года и соответствующие им пейзажи (вертикальный слайдер)🌱 [Code](https://github.com/wonder-girl92/slider-vertical) | [Demo](https://wonder-girl92.github.io/slider-vertical/)
