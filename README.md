@@ -30,7 +30,7 @@ Here is the link to contact me by Telegram:
 ![Firebase](https://img.shields.io/badge/-Firebase-5F3466?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![RazzleJS](https://img.shields.io/badge/Razzle-JS-FDFF88?style=for-the-badge&logo=react&logoColor=1FDDF3)
+![RazzleJS](https://img.shields.io/badge/Razzle-JS-FDFF88?style=for-the-badge&logo=r&logoColor=1FDDF3)
 ## Foremost projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company-app) | [Demo](https://wonder-girl92.github.io/fast-company-app/)
 - Прогноз погоды на текущий день и последующие 3 дня (React)⛅ [Code](https://github.com/wonder-girl92/weather-forecast) | [Demo](https://wonder-girl92.github.io/weather-forecast/)
