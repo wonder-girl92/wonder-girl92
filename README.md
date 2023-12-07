@@ -31,7 +31,7 @@ Here is the link to contact me by Telegram:
 ![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![RazzleJS](https://img.shields.io/badge/Razzle-JS-F7DF1E?style=for-the-badge&logo=webpack&logoColor=1FDDF3)
-![Express](https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-E6FDE4?style=for-the-badge&logo=express&logoColor=black)
 
 ## Foremost projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company-app) | [Demo](https://wonder-girl92.github.io/fast-company-app/)
