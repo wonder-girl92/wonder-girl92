@@ -30,6 +30,7 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![RazzleJS](https://img.shields.io/badge/Razzle-JS-F7DF1E?style=for-the-badge&logo=webpack&logoColor=1FDDF3)
 ![Express](https://img.shields.io/badge/-Express-E6FDE4?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)
 
 ## Foremost projects:
 - Приложение для выбора друга (друзей) для встречи по категориям (React)👫 [Code](https://github.com/wonder-girl92/fast-company-app) | [Demo](https://wonder-girl92.github.io/fast-company-app/)
