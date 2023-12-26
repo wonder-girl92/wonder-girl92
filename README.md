@@ -37,7 +37,7 @@
 - Прогноз погоды на текущий день и последующие 3 дня (React)⛅ [Code](https://github.com/wonder-girl92/weather-forecast) | [Demo](https://wonder-girl92.github.io/weather-forecast/)
 - Десктопный чат (React/Redux) (командная работа)📨 [Code](https://github.com/wonder-girl92/react-chat) | [Demo](https://wonder-girl92.github.io/react-chat/)
 - Викторина (JS)❓ [Code](https://github.com/wonder-girl92/quiz-on-JS) | [Demo](https://wonder-girl92.github.io/quiz-on-JS/)
-- Сервис для внесения донатов (сборшик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
+- Сервис для внесения донатов (сборщик проектов Webpack)💲 [Code](https://github.com/wonder-girl92/service-for-donation-webpack) | [Demo](https://wonder-girl92.github.io/service-for-donation-webpack/)
 - Интернет-магазин книг (React, Material UI)📚 [Code](https://github.com/wonder-girl92/online-store-of-books) | [Demo](https://wonder-girl92.github.io/online-store-of-books/)
 ## Simple but interesting (native JS, CSS):
 - Карточки с переходом-расширением при клике (горизонтальный слайдер)🥭 [Code](https://github.com/wonder-girl92/cards) | [Demo](https://wonder-girl92.github.io/cards/)
